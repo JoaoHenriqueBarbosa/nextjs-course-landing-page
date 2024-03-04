@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>nextjs-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(37.49,62.586,-29.529,17.689,132.707,181.561)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.009,75.203,-12.545,-0.001,172.083,76.771)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m128 256c-70.8 0-128-57.2-128-128 0-70.8 57.2-128 128-128 70.8 0 128 57.2 128 128 0 70.8-57.2 128-128 128z"/>
+			<path id="Layer" class="s1" d="m212.6 224l-114.3-147.2h-21.5v102.4h17.2v-80.5l105.1 135.7q7.1-4.7 13.5-10.4z"/>
+			<path id="Layer" class="s2" d="m163.6 76.8h17v102.4h-17z"/>
+		</g>
+	</g>
+</svg>
